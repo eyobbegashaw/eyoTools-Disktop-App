@@ -1,0 +1,9 @@
+Pillow 
+pytubefix 
+PyPDF2
+gTTS 
+pygame 
+easyocr 
+numpy 
+qrcode 
+opencv-python 
